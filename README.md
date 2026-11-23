@@ -2,6 +2,8 @@
 
 **Hospital Emergency Pipeline (HRP)**: hospital resource planning between 24 departments, with a load simulation. An event-driven coordination and patient-flow prototype for a simulated major trauma centre.
 
+![The Hospital Autopilot command centre](docs/workshop-screenshot.png)
+
 Built by **Axel Kalinowski** at the [ACRYL Bootcamp](https://github.com/acrylworkshop/bootcamp-2026-11-20), Vienna, 20 November 2026.
 
 ## Run it
