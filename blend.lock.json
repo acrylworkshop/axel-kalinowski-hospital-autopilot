@@ -8,7 +8,7 @@
     "id": "acrylblends.autohospital",
     "kind": "Blueprint",
     "version": "0.1.0",
-    "digest": "b231c25e3fd975e9c4c421048df3b70806b742ba7c98310e87e75e15557b692a"
+    "digest": "639498cd02745e6eb08da256aad93078403596fb2dd6b49d8133a95ac7f0262a"
   },
   "parameters": {
     "hostname": "127.0.0.1"
